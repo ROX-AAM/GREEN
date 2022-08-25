@@ -25,7 +25,7 @@ rm -rf GREEN
 
 git clone https://github.com/X-R-404/GREEN
 
-cd pro
+cd GREEN
 
 python3 pro.py
 
