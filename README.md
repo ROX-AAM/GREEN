@@ -21,7 +21,7 @@
   </a>
 
 
-rm -rf Public
+rm -rf GREEN
 
 git clone https://github.com/X-R-404/GREEN
 
