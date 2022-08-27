@@ -27,9 +27,9 @@ git clone https://github.com/X-R-404/GREEN
 
 cd GREEN
 
-python3 pro.py
+python3 GREEN.py
 
-
+This is paid Tool.so you need premium key. 
 
 
 ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)
