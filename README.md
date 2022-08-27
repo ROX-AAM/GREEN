@@ -15,11 +15,13 @@
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
 
-# META
+# GREEN
 <a href="https://github.com/X-R-404/Public">
     <img alt="Repo Size" src="https://img.shields.io/github/repo-size/X-R-404/Public.svg"/>
   </a>
 
+
+# Run command 
 
 rm -rf GREEN
 
