@@ -31,7 +31,7 @@ cd GREEN
 
 python3 GREEN.py
 
-This is paid Tool.so you need premium key. 
+This is paid Tool. So you need premium key. 
 
 
 ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)
